@@ -1,0 +1,8 @@
+phidata
+python-dotenv
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+slack
